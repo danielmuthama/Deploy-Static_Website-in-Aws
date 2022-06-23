@@ -20,7 +20,7 @@
 
       distribute via cloudfront
       
-![Screenshot](https://github.com/danielmuthama/Deploy-Static_Website-in-Aws/blob/main/Pictures/Static%20deploment/5.png?raw=true
+![Screenshot](https://github.com/danielmuthama/Deploy-Static_Website-in-Aws/blob/main/Pictures/Static%20deploment/5.png?raw=true)
 
       deployed website
       
