@@ -1,6 +1,9 @@
 ### AWS_CloudEssentials
 
 #### S3 bucket Deployed site: https://d1vvrfwbd7uyea.cloudfront.net
+#### http://my-7197-8024-7517-bucket.s3-website-us-east-1.amazonaws.com/
+#### http://my-7197-8024-7517-bucket.s3-website-us-east-1.amazonaws.com/index.html
+
 
       creatimg bucket
 
