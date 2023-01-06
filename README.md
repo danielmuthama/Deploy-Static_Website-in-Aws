@@ -2,7 +2,7 @@
 
 #### S3 bucket Deployed site: https://d1vvrfwbd7uyea.cloudfront.net
 #### S3 bucke url: http://my-7197-8024-7517-bucket.s3-website-us-east-1.amazonaws.com/
-#### s3 bucket url index url: http://my-7197-8024-7517-bucket.s3-website-us-east-1.amazonaws.com/index.html
+#### s3 bucket index url: http://my-7197-8024-7517-bucket.s3-website-us-east-1.amazonaws.com/index.html
 
 
       creatimg bucket
