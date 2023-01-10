@@ -21,7 +21,7 @@
       
 ![Screenshot](https://github.com/danielmuthama/Deploy-Static_Website-in-Aws/blob/main/Pictures/Static%20deploment/picture-4.png?raw=true)
 
-      distribute via cloudfront
+      create and configure cloudfront ditribution
       
 ![Screenshot](https://github.com/danielmuthama/Deploy-Static_Website-in-Aws/blob/main/Pictures/Static%20deploment/picture-5.png?raw=true)
 
